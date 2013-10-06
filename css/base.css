@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Microsoft YaHei,Verdana,sans-serif;
   margin: 0;
   -webkit-font-smoothing: antialiased; }
 
@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 80px;
+  width: 240px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -27,12 +27,12 @@ a {
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 1px;
-      font-size: 23px;
+      font-size: 62px;
+      font-weight: bold;
       letter-spacing: 5px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 17px;
-      font-weight: bold;
+      font-size: 22px;
       letter-spacing: 1px;
       color: black; }
   .sidebar .meta a {
@@ -63,7 +63,7 @@ a {
 
 .content {
   max-width: 650px;
-  margin-left: 110px;
+  margin-left: 250px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {

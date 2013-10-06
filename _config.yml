@@ -4,9 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: 腹痛症
+url: http://footoredo.github.com
+description:
+twitter: footo
+github: footoredo
+gravatar_url: http://en.gravatar.com/userimage/40724226/8f5903d8b878fa3d27c43e56399b6221.jpg?size=200
